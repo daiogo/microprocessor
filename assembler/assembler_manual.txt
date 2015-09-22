@@ -1,0 +1,15 @@
+Para utilizar o assembler favor tomar os seguintes cuidados na hora de codificar:
+
+-Deixe os labels necessariamente colados com o começo da linha
+-Cuidado com os comentários! Caso você não use ";" eles poderão não ser ignorados pelo assembler
+-O sistema que indica as linhas dos erros não é confiável (ele ignora as linhas em branco)
+-Nunca coloque labels sem instruções ao seu lado
+
+A fim de executar o programa, coloque o código-fonte Perl (programa) e o código-fonte Assembly (entrada)
+na mesma pasta. Logo em seguida, dê o seguinte comando no terminal:
+
+		./assembler.pl codigo_exemplo_assembly.txt
+
+Antes de rodar, verifique as permissões do arquivo!
+
+Caso tenha mais dúvidas: dggf.93@gmail.com
