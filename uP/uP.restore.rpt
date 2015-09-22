@@ -1,0 +1,94 @@
+Restore Archived Project report for uP
+Wed Jul 22 16:50:38 2015
+Quartus II 64-Bit Version 14.0.0 Build 200 06/17/2014 SJ Web Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Restore Archived Project Summary
+  3. Restore Archived Project Messages
+  4. Files Restored
+  5. Files Not Restored
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 1991-2014 Altera Corporation. All rights reserved.
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, the Altera Quartus II License Agreement,
+the Altera MegaCore Function License Agreement, or other 
+applicable license agreement, including, without limitation, 
+that your use is for the sole purpose of programming logic 
+devices manufactured by Altera and sold by Altera or its 
+authorized distributors.  Please refer to the applicable 
+agreement for further details.
+
+
+
++-------------------------------------------------------------------------+
+; Restore Archived Project Summary                                        ;
++---------------------------------+---------------------------------------+
+; Restore Archived Project Status ; Successful - Wed Jul 22 16:50:38 2015 ;
+; Revision Name                   ; uP                                    ;
+; Top-level Entity Name           ; uP                                    ;
+; Family                          ; MAX V                                 ;
++---------------------------------+---------------------------------------+
+
+
++-----------------------------------+
+; Restore Archived Project Messages ;
++-----------------------------------+
+Info: Successfully restored 'D:/Dropbox/Courseware/UTFPR/Arquitetura de Computadores/uP.qar' into the 'D:/Dropbox/Courseware/UTFPR/Arquitetura de Computadores/uP/' directory
+Info: Generated report 'uP.restore.rpt'
+Info (23030): Evaluation of Tcl script c:/altera/14.0/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus II 64-Bit Shell was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 316 megabytes
+    Info: Processing ended: Wed Jul 22 16:50:38 2015
+    Info: Elapsed time: 00:00:04
+    Info: Total CPU time (on all processors): 00:00:02
+
+
++---------------------------------+
+; Files Restored                  ;
++---------------------------------+
+; File Name                       ;
++---------------------------------+
+; qar_info.json                   ;
+; alu/alu.vhd                     ;
+; alu/arithmetic_circuit.vhd      ;
+; ccr/condition_code_register.vhd ;
+; ccr/flipflopD.vhd               ;
+; control/control.vhd             ;
+; mux2x1/mux2x1.vhd               ;
+; mux4x1/mux4x1.vhd               ;
+; ram/ram.vhd                     ;
+; reg16bits/reg16bits.vhd         ;
+; register_bank/demux1x8.vhd      ;
+; register_bank/mux8x2.vhd        ;
+; register_bank/register_bank.vhd ;
+; rom/rom.vhd                     ;
+; state_machine/state_machine.vhd ;
+; uP/uP.qpf                       ;
+; uP/uP.qsf                       ;
+; uP/uP.vhd                       ;
+; uP/uP_tb.vhd                    ;
+; uP/assignment_defaults.qdf      ;
++---------------------------------+
+
+
++--------------------+
+; Files Not Restored ;
++--------------------+
+; File Name          ;
++--------------------+
+
+
